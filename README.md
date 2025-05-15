@@ -1,6 +1,6 @@
 Adidas United Sales Analysis 2020-2021
 
-Key Finding and Insights:
+Key Findings and Insights:
 1. Overall Bisnis Results
    Total sales reached $120 million with operating profit of $47.1 million from $2.46 million units sold. This indicates good market growth.
 2. Monthly Sales & Profit Trends
